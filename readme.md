@@ -1,30 +1,15 @@
-### Hi there 👋, I'm Shin!
+### Welcome to Juneha's Github Page
 
-<a href="https://twitter.com/shinokada">
-  <img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
-</a>
-<a href="https://medium.com/@shinichiokada">
-  <img align="left" alt="Shinichi Okada | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
-</a>
-
-<br />
-<br />
-
-- 🌱 My <a href="https://blog.codewithshin.com/">blog</a> 
-- 📫 How to reach me: <a href="https://twitter.com/shinokada">@shinokada</a> 
+- 📖 My <a href="https://junehahwang.medium.com/">blog</a> 
+- 📩 contact me at: junehahwang@gmail.com 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shinokada&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=charrybot&theme=tokyonight&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=charrybot)
 
 ## My Repos
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=vennfig&show_owner=true)](https://github.com/shinokada/vennfig)
-
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=statsfig&show_owner=true)](https://github.com/shinokada/statsfig)
-
-[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=covid-19-stats&show_owner=true)](https://github.com/shinokada/covid-19-stats)
-
+[![USACO](https://github-readme-stats.vercel.app/api/pin/?username=charrybot&repo=USACO&show_owner=true)](https://github.com/charrybot/USACO)
 
 
 **Languages and Tools:**  
