@@ -3,8 +3,10 @@
 - 📖 My <a href="https://junehahwang.medium.com/">blog</a> 
 - 📩 contact me at: junehahwang@gmail.com 
 
-
+## Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=charrybot&theme=tokyonight&show_icons=true&count_private=true)
+
+## Languages
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=charrybot&theme=tokyonight)
 
 ## My Repos
